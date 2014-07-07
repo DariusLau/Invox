@@ -1,27 +1,22 @@
-== README
+== README Invox v0.01
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Invox is an open source government accountability platform. No citizen deserves to be lied to by their leaders. 
+
+Fact Checking (http://en.wikipedia.org/wiki/Fact_checking) is the verification of data presented publicly, however 
+
+This project is inspired by http://www.politifact.com/ but seeks to rely on a community of fact checkers crowdsourcing the verification of data and making these tools accesible to anyone. 
+
+
+Goal of version 0.1
+
+To provide a simple way to evaluate the current status of a presidents promises during his campaign. 
+
 
 Things you may want to cover:
 
-* Ruby version
+* Rails 4.0.2
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby 2.0.0p353
 
 
 Please feel free to use a different markup language if you do not plan to run
